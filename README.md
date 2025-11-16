@@ -50,7 +50,7 @@ mread, rgb2gray, im2double, imgaussfilt, imadjust, adapthisteq, imsharpen, imbin
   Important intermediate steps:
   1.Ensure above mentioned toolboxes are installed correctly
   2.Ensure given input image and its path are correct in the code
-  Final output images: Under Outputs folder
+  Final output images
 
 ### References:
 1. https://ieeexplore.ieee.org/document/10134173 - A Review on Enhancement Techniques for Historical Document Images Using Binarization
@@ -59,3 +59,11 @@ mread, rgb2gray, im2double, imgaussfilt, imadjust, adapthisteq, imsharpen, imbin
  
    
 ### Limitations and Future Work:
+Limitations:
+1. Fixed Parameter Approach
+2. Poor Performance on Severely Degraded Documents
+3. No Layout or Structure Preservation
+Future Work:
+Deep Learning Integration
+Intelligent Post-Processing
+Multi-Script and Layout Analysis
