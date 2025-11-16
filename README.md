@@ -36,20 +36,20 @@ This project introduces a straightforward preprocessing pipeline designed to cle
 https://github.com/DIP-2025-MINI-PROJECT/Restoring-and-Enhancing-Degraded-Text-Documents-for-Reliable-OCR.git
 
 2. Install Dependencies
-Toolboxes:
-1. Image processing toolbox
-2. Computer vision toolbox
+Toolboxes:Image processing toolbox,Computer vision toolbox 
 
-Built-in functions:
-mread, rgb2gray, im2double, imgaussfilt, imadjust, adapthisteq, imsharpen, imbinarize, bwareaopen, strel, imdilate
+    Built-in functions:mread, rgb2gray, im2double, imgaussfilt, imadjust, adapthisteq, imsharpen, imbinarize, bwareaopen, strel, imdilate
 
 3. Run the Code
    Matlab Code: Code_Restoration of Degraded Text Documents.mlx
 
 ### Outputs:
   Important intermediate steps:
+  
   1.Ensure above mentioned toolboxes are installed correctly
+  
   2.Ensure given input image and its path are correct in the code
+  
   Final output images
 
 ### References:
@@ -57,13 +57,9 @@ mread, rgb2gray, im2double, imgaussfilt, imadjust, adapthisteq, imsharpen, imbin
 2. https://www.researchgate.net/publication/294727398_History_Document_Image_Background_Noise_and_Removal_Methods - Document Image Background Noise and Removal Methods
 3. https://www.mdpi.com/2079-9292/13/7/1394 - A Review of Document Binarization: Main Techniques, New Challenges, and Trends
  
-   
 ### Limitations and Future Work:
 Limitations:
-1. Fixed Parameter Approach
-2. Poor Performance on Severely Degraded Documents
-3. No Layout or Structure Preservation
+Fixed Parameter Approach,Poor Performance on Severely Degraded Documents,No Layout or Structure Preservation
+
 Future Work:
-Deep Learning Integration
-Intelligent Post-Processing
-Multi-Script and Layout Analysis
+Deep Learning Integration,Intelligent Post-Processing,Multi-Script and Layout Analysis
