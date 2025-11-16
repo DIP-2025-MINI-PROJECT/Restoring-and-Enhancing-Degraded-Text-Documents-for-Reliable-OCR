@@ -33,7 +33,7 @@ This project introduces a straightforward preprocessing pipeline designed to cle
 
 ### Steps:
 1. Clone Repository
-```git clone https://github.com/Digital-Image-Processing-PES-ECE/project-name.git ```
+https://github.com/DIP-2025-MINI-PROJECT/Restoring-and-Enhancing-Degraded-Text-Documents-for-Reliable-OCR.git
 
 2. Install Dependencies
 ```pip install -r requirements.txt```
