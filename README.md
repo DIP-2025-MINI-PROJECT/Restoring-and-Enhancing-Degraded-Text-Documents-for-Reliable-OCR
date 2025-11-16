@@ -36,14 +36,21 @@ This project introduces a straightforward preprocessing pipeline designed to cle
 https://github.com/DIP-2025-MINI-PROJECT/Restoring-and-Enhancing-Degraded-Text-Documents-for-Reliable-OCR.git
 
 2. Install Dependencies
-```pip install -r requirements.txt```
+Toolboxes:
+1. Image processing toolbox
+2. Computer vision toolbox
+
+Built-in functions:
+mread, rgb2gray, im2double, imgaussfilt, imadjust, adapthisteq, imsharpen, imbinarize, bwareaopen, strel, imdilate
 
 3. Run the Code
-```python main.py (for eg.)```
+   Matlab Code: Code_Restoration of Degraded Text Documents.mlx
 
 ### Outputs:
-* Important intermediate steps
-* Final output images 
+  Important intermediate steps:
+  1.Ensure above mentioned toolboxes are installed correctly
+  2.Ensure given input image and its path are correct in the code
+  Final output images: Under Outputs folder
 
 ### References:
 1. https://ieeexplore.ieee.org/document/10134173 - A Review on Enhancement Techniques for Historical Document Images Using Binarization
