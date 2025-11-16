@@ -1,5 +1,5 @@
 ## Project Name- 
-Restoring-and-Enhancing-Degraded-Text-Documents-for-Reliable-OCR
+Restoring and Enhancing Degraded Text Documents for Reliable OCR
 ## Project Description-
 This project builds a simple, effective image-cleaning pipeline to prepare degraded text documents for OCR. It converts images to grayscale, reduces noise, improves contrast, enhances text with morphology, corrects the background, and then applies OCR to extract clear, readable text.
 
