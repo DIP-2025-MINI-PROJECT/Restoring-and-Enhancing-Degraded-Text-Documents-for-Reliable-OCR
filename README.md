@@ -40,8 +40,7 @@ Toolboxes:Image processing toolbox,Computer vision toolbox
 
     Built-in functions:mread, rgb2gray, im2double, imgaussfilt, imadjust, adapthisteq, imsharpen, imbinarize, bwareaopen, strel, imdilate
 
-3. Run the Code
-   Matlab Code: Code_Restoration of Degraded Text Documents.mlx
+3. Run the Matlab Code: Code_Restoration of Degraded Text Documents.mlx
 
 ### Outputs:
   Important intermediate steps:
